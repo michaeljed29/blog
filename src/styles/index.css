@@ -1,0 +1,10 @@
+@import "./fonts.css";
+@import "./common/button.css";
+@import "./common/typography.css";
+@import "./common/utils.css";
+@import "./home/home.css";
+@import "./layout/footer.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

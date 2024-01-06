@@ -1,0 +1,9 @@
+@layer utilities {
+  .padding {
+    @apply px-20;
+  }
+
+  .padding-y {
+    @apply py-[64px];
+  }
+}

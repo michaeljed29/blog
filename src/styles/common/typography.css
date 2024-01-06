@@ -1,0 +1,49 @@
+@layer components {
+  .primary-button {
+    @apply py-4 px-12 bg-yellow text-black cursor-pointer font-bold font-sen text-[18px] inline-flex items-center;
+  }
+
+  .body-1 {
+    @apply text-[16px] text-black font-inter font-normal leading-[28px];
+  }
+
+  .body-2 {
+    @apply text-[14px] text-mediumGray font-inter font-normal leading-[20px];
+  }
+
+  .heading-1 {
+    @apply text-[36px] font-sen font-bold leading-[48px] tracking-[-2px] text-black;
+  }
+
+  .heading-2 {
+    @apply text-[48px] font-sen font-bold leading-[64px] tracking-[-2px] text-black;
+  }
+
+  .heading-3 {
+    @apply text-[28px] font-sen font-bold leading-[40px] tracking-[-1px] text-black;
+  }
+
+  .heading-4 {
+    @apply text-[24px] font-sen font-bold leading-[32px] text-black;
+  }
+
+  .heading-5 {
+    @apply text-[20px] font-sen font-bold leading-[32px] text-black;
+  }
+
+  .label-1 {
+    @apply font-inter font-medium leading-[20px] text-[14px] text-darkGray;
+  }
+
+  .display {
+    @apply text-white text-[55px] font-bold font-sen max-w-[803px] tracking-[-2px] leading-[64px] my-[24px];
+  }
+
+  .capital-1 {
+    @apply text-black font-inter font-semibold leading-[20px] text-[16px] tracking-[3px] uppercase;
+  }
+
+  .capital-3 {
+    @apply text-black font-inter font-medium leading-[20px] text-[16px] tracking-[3px] uppercase;
+  }
+}

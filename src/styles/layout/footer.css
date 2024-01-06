@@ -1,0 +1,7 @@
+@layer components {
+  .footer-section {
+    .nav {
+      @apply mr-0;
+    }
+  }
+}

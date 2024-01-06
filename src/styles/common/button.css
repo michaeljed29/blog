@@ -1,0 +1,9 @@
+@layer components {
+  .primary-button {
+    @apply py-4 px-12 bg-yellow text-black cursor-pointer font-bold font-sen text-[18px] inline-flex items-center;
+  }
+
+  .link-button {
+    @apply font-sen font-bold text-purple leading-[32px] text-[18px] cursor-pointer;
+  }
+}
