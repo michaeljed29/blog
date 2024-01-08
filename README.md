@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 # Live Preview
 
 https://finsweet-blog.netlify.app/
+
+![preview img](./src/assets/images/preview.png)
